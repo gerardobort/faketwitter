@@ -24,7 +24,7 @@ The idea of this exercise is to integrate several different aspects of basic pro
 
 ### Tweets Management (tweets.py)
 
-1. Create Tweet ```createTwitt(username, message)```
+1. Create Tweet ```createTweet(username, message)```
 2. Get All User Tweets ```getAllUserTweets(username)```, returns a list of tweets
 2. Get User Tweet ```getUserTweet(username, tweetIndex)```, returns a single tweet message (a string)
 
