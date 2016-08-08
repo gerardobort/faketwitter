@@ -13,7 +13,7 @@ The idea of this exercise is to integrate several different aspects of basic pro
 
 ## The Library
 
-### User Management (user.py)
+### User Management (users.py)
 
 1. Create User ```createUser(username, password, firstname, lastname, age)```
 2. Delete User ```deleteUser(username)```
